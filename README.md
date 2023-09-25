@@ -83,8 +83,7 @@
 ![](C:\Users\Andre\Pictures\ssh_order\ssh_part_14.png)
 
 15. Then, copy the pasted command to link the repos via ssh:
+    1. git remote set-url origin git@github.com:<your-git/here>.git
 
 ![](C:\Users\Andre\Pictures\ssh_order\ssh_part_16.png)
 ![](C:\Users\Andre\Pictures\ssh_order\ssh_part_17.png)
-
-small change
