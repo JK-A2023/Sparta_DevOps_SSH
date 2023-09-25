@@ -11,7 +11,7 @@
 
 ![](C:\Users\Andre\Pictures\ssh_order\ssh_part_2.png)
 
-3. Use the following command: `ssh-keygen -t rsa -b 4096 -C <your.email@here.com>`
+3. Use the following command: `ssh-keygen -t rsa -b 4096 -C <your.email@here.com>git `
    1. The `ssh-keygen` is the command to begin generating a key.
    2. `-t` is the flag for noting the type. In this example we use the type of rsa.
    3. `-b` is the flag for giving the size of the key in bits, here being 4096.
