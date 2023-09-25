@@ -68,12 +68,13 @@
     1. In the terminal, type `ssh -T git@github.com`
     2. the `-T` stands for test.
 
-![](C:\Users\Andre\Pictures\ssh_order\ssh_part_12.png)
+![](C:\Users\Andre\Pictures\ssh_order\ssh_part_15.png)
 
 13. Navigate back to GitHub. Here, you should set up a new repository, ready to be linked.
     1. Once you have set up your fresh repo, navigate to the Code section, and click on the `SSH` button, marked in red here:
-    2. Use the copy button at the far right of the page.
+    2. Following that, copy the `git remote add origin git@github.com:your_repo/here.git`, also marked in red.
 
+![](C:\Users\Andre\Pictures\ssh_order\ssh_part_12.png)
 ![](C:\Users\Andre\Pictures\ssh_order\ssh_part_13.png)
 
 14. Navigate to your folder of choice that you wish to link to GitHub.
@@ -81,4 +82,8 @@
 
 ![](C:\Users\Andre\Pictures\ssh_order\ssh_part_14.png)
 
+15. Then, copy the pasted command to link the repos via ssh:
+
+![](C:\Users\Andre\Pictures\ssh_order\ssh_part_16.png)
+![](C:\Users\Andre\Pictures\ssh_order\ssh_part_17.png)
 
