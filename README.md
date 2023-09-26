@@ -112,6 +112,6 @@
     2. `git commit -m "<your message here>"`
     3. `git push -u origin main`
 
+![img.png](ssh_images/git_add_and_git_status.png)
 
-
-
+![img.png](ssh_images/git_commit.png)
