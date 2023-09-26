@@ -115,3 +115,5 @@
 ![img.png](ssh_images/git_add_and_git_status.png)
 
 ![img.png](ssh_images/git_commit.png)
+
+![img.png](ssh_images/git_push.png)
