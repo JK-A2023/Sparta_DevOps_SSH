@@ -1,5 +1,7 @@
 # Setting Up SSH
 
+### This process is terminal specific. Complete this in a terminal you will use git in.
+
 1. Begin by navigating to the user directory in the terminal.
    1. This can be done by simply inputting `cd` in the terminal.
 
